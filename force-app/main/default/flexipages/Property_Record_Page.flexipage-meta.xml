@@ -161,38 +161,19 @@
     <flexiPageRegions>
         <itemInstances>
             <componentInstance>
-                <componentName>HelloWorld</componentName>
-            </componentInstance>
-        </itemInstances>
-        <itemInstances>
-            <componentInstance>
-                <componentName>BrokerCard</componentName>
-            </componentInstance>
-        </itemInstances>
-        <itemInstances>
-            <componentInstance>
                 <componentInstanceProperties>
-                    <name>priceRange</name>
-                    <value>100000</value>
+                    <name>latField</name>
+                    <value>Location__Latitude__s</value>
                 </componentInstanceProperties>
                 <componentInstanceProperties>
-                    <name>searchCriteria</name>
-                    <value>Bedrooms</value>
-                </componentInstanceProperties>
-                <componentName>SimilarProperties</componentName>
-            </componentInstance>
-        </itemInstances>
-        <itemInstances>
-            <componentInstance>
-                <componentInstanceProperties>
-                    <name>priceRange</name>
-                    <value>100000</value>
+                    <name>longField</name>
+                    <value>Location__Longitude__s</value>
                 </componentInstanceProperties>
                 <componentInstanceProperties>
-                    <name>searchCriteria</name>
-                    <value>Price</value>
+                    <name>titleField</name>
+                    <value>Name</value>
                 </componentInstanceProperties>
-                <componentName>SimilarProperties</componentName>
+                <componentName>RecordMap</componentName>
             </componentInstance>
         </itemInstances>
         <itemInstances>
